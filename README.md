@@ -1,4 +1,4 @@
-# Airbnb Price Prediction Model
+# Predicting Airbnb Prices with Tree-Based Machine Learning Algorithms Optimized with Bayesian Methods
 
 This notebook implements an end-to-end machine learning pipeline for predicting Airbnb listing prices with three tree-based models: **Random Forest**, **XGBoost**, and **LightGBM**.
 
